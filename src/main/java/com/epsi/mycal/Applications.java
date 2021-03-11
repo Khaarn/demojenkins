@@ -5,4 +5,3 @@ public class Applications {
         System.out.println("Hello World !");
     }
 }
-git
