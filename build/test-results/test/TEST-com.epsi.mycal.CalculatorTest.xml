@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.epsi.mycal.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-11T13:29:37" hostname="DESKTOP-GO1SN2Q" time="0.004">
+<testsuite name="com.epsi.mycal.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-03-12T08:41:25" hostname="DESKTOP-GO1SN2Q" time="0.005">
   <properties/>
-  <testcase name="add" classname="com.epsi.mycal.CalculatorTest" time="0.004"/>
+  <testcase name="add" classname="com.epsi.mycal.CalculatorTest" time="0.005"/>
   <testcase name="sub" classname="com.epsi.mycal.CalculatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
